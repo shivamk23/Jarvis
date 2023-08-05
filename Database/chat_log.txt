@@ -1,0 +1,5 @@
+
+Human : in which state 
+Jarvis : The state of the Jarvis system is unknown.
+Human : nalagarh is in which state 
+Jarvis : Nalagarh is in Himachal Pradesh.

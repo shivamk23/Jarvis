@@ -1,0 +1,29 @@
+
+Question : what is physics 
+Anserw : Physics is the study of matter and energy and the interactions between them.
+Question : cd "c:\Users\HP\Desktop\university\jarvis\Features" 
+Anserw : The system cannot find the path specified.
+Question : python -u "c:\Users\HP\Desktop\university\jarvis\Features\clap.py" 
+Anserw : python -u "c:\Users\HP\Desktop\university\jarvis\Features\clap.py"
+Question : cd "c:\Users\HP\Desktop\university\jarvis" 
+Anserw : The system cannot find the path specified.
+Question : python -u "c:\Users\HP\Desktop\university\jarvis\Jarvis.py" 
+Anserw : python -u "c:\Users\HP\Desktop\university\jarvis\Jarvis.py"
+Question : cd "c:\Users\HP\Desktop\university\jarvis" 
+Anserw : The system cannot find the path specified.
+Question : python -u "c:\Users\HP\Desktop\university\jarvis\tempCodeRunnerFile.py" 
+Anserw : python -u "c:\Users\HP\Desktop\university\jarvis\tempCodeRunnerFile.py"
+Question : what is my name 
+Anserw : I don't know.
+Question : what is day today 
+Answer : Today is Wednesday.
+Question : what is what is your name 
+Answer : I don't know.
+Question : what is your name 
+Answer : My name is Jarvis.
+Question : what is the day today 
+Answer : Today is Wednesday.
+Question : what is the weather of nalagarh today 
+Answer : The weather of Nalagarh today is Cloudy.
+Question : where is nalgarh 
+Answer : Nalagarh is in India.
