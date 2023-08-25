@@ -23,5 +23,5 @@ Follow these steps to get the Jarvis Program up and running on your local machin
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/jarvis-program.git
+   git clone https://github.com/shivamk23/jarvis-program.git
    cd jarvis-program
